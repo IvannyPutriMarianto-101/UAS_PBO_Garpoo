@@ -1,5 +1,8 @@
 ﻿# UAS_PBO_Garpoo
 
+# Latar Belakang :
+Menurut CNBC Indonesia, tercatat bahwa terdapat 52 daerah yang termasuk daerah 3T (Tertinggal, Terdepan dan Terluar). Daerah 3T ini memiliki banyak permasalahan salah satunya yaitu kurangnya nutrisi pada penduduknya terutama anak sekolahan. Terdapat beberapa program yang telah direncanakan untuk membantu daerah 3T namun tidak dapat dilaksanakan dikarenakan terdapat beberapa oknum-oknum yang tidak bertanggungjawab dalam penggunaan dana yang telah diberikan untuk keuntungan pribadi. Untuk mengatasi masalah tersebut kami membuat suatu aplikasi bernama Satu Meja yang bertujuan untuk mencegah adanya penyalahgunaan dana yang telah diberikan dengan apa yang diberikan kepada masyarakat sehingga data yang diperoleh lebih transparan.
+
 # Kelompok Garpoo:
 1. Margareth Serepine Simanjuntak (221401022) - Lab. 5
 2. Muhammad Azi Maulana Manru (221401028) - Lab 5
@@ -36,3 +39,4 @@ https://www.figma.com/design/F9vArOeFd5Q0wWUb3FarMA/SatuMeja?node-id=0-1&t=acXLr
 # Link Video Penjelasan :
 
 # Link Video Penggunaan :
+https://youtu.be/fHGKiOHdcZo
