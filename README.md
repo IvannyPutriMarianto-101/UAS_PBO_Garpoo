@@ -36,9 +36,23 @@ Untuk Bahasa Pemrograman yang kami gunakan yaitu Kotlin.
 # Link Figma : 
 https://www.figma.com/design/F9vArOeFd5Q0wWUb3FarMA/SatuMeja?node-id=0-1&t=acXLrwpODAii5rDp-0
 
-# Link Video Penjelasan :
+# Link Video Penjelasan/Presentasi :
+https://youtu.be/4mozhezWL58
 
 # Link Video Penggunaan :
-https://youtu.be/fHGKiOHdcZo
+https://youtu.be/AnUHi1WYJWQ
 
 # Screenshoot Aplikasi:
+![IMG-20240619-WA0040](https://github.com/IvannyPutriMarianto-101/UAS_PBO_Garpoo/assets/114645428/673232f0-4ec1-4f32-9680-52a939c64bb7)
+![IMG-20240619-WA0033](https://github.com/IvannyPutriMarianto-101/UAS_PBO_Garpoo/assets/114645428/35408b86-11fc-4e95-919a-a24167f7d459)
+![IMG-20240619-WA0032](https://github.com/IvannyPutriMarianto-101/UAS_PBO_Garpoo/assets/114645428/b57eced2-99f2-41cf-9749-0aff8b2ba1d2)
+![IMG-20240619-WA0031](https://github.com/IvannyPutriMarianto-101/UAS_PBO_Garpoo/assets/114645428/1995c49d-3700-4e22-9138-25bfcfda94ff)
+![IMG-20240619-WA0030](https://github.com/IvannyPutriMarianto-101/UAS_PBO_Garpoo/assets/114645428/fd33f768-cdb9-4082-b09f-af044c9fa524)
+![IMG-20240619-WA0029](https://github.com/IvannyPutriMarianto-101/UAS_PBO_Garpoo/assets/114645428/069c126c-48e2-48da-bc8e-a8be3369007f)
+![IMG-20240619-WA0039](https://github.com/IvannyPutriMarianto-101/UAS_PBO_Garpoo/assets/114645428/ebbc93a8-9cf2-415e-a522-99605311059f)
+![IMG-20240619-WA0038](https://github.com/IvannyPutriMarianto-101/UAS_PBO_Garpoo/assets/114645428/eba78194-29ec-41b5-a53b-3d75988ca182)
+![IMG-20240619-WA0037](https://github.com/IvannyPutriMarianto-101/UAS_PBO_Garpoo/assets/114645428/170ccf49-5a32-4f24-ac65-22d1f9b1b475)
+![IMG-20240619-WA0036](https://github.com/IvannyPutriMarianto-101/UAS_PBO_Garpoo/assets/114645428/3b4e76b3-b85b-4513-94a1-75f7e423ea0c)
+![IMG-20240619-WA0035](https://github.com/IvannyPutriMarianto-101/UAS_PBO_Garpoo/assets/114645428/538aad7b-ef7e-4abb-a569-8ad1c1ce722b)
+![IMG-20240619-WA0034](https://github.com/IvannyPutriMarianto-101/UAS_PBO_Garpoo/assets/114645428/cd1061e0-511d-4370-ac30-23a22d0f0d8a)
+
