@@ -7,7 +7,8 @@
 4. Ivanny Putri Marianto (221401101) - Lab 6
 5. Satyavira Prathama (221401126) - Lab 6
 
-# Jobdesk secara garis besar:
+# Jobdesk 
+Untuk secara garis besar:
 1. UI/UX Designer : Ivanny Putri Marianto
 2. FrontEnd : Margareth Serepine Simanjuntak & Muhammad Azi Maulana Manru
 3. BackEnd : Wilbert Neilson Sachio & Satyavira Prathama
