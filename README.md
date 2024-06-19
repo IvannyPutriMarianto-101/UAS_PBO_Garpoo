@@ -7,7 +7,7 @@
 4. Ivanny Putri Marianto (221401101) - Lab 6
 5. Satyavira Prathama (221401126) - Lab 6
 
-#Jobdesk secara garis besar:
+# Jobdesk secara garis besar:
 1. UI/UX Designer : Ivanny Putri Marianto
 2. FrontEnd : Margareth Serepine Simanjuntak & Muhammad Azi Maulana Manru
 3. BackEnd : Wilbert Neilson Sachio & Satyavira Prathama
@@ -21,7 +21,7 @@ Untuk secara rinci:
 
 Untuk proses pengerjaan dilakukan secara bersama sama dengan membantu satu sama lain.
 
-#Cara Penggunaan:
+# Cara Penggunaan:
 1. Download codingan dalam bentuk zip.
 2. Buka codingan di Android Studio.
 3. Run codingan dengan Emulator atau mengkoneksikan dengan wifi agar bisa terhubung ke handphone.
@@ -29,8 +29,9 @@ Untuk proses pengerjaan dilakukan secara bersama sama dengan membantu satu sama 
 Untuk software yang kami gunakan yaitu Android Studio. 
 Untuk Bahasa Pemrograman yang kami gunakan yaitu Kotlin.
 
-#Link Figma : https://www.figma.com/design/F9vArOeFd5Q0wWUb3FarMA/SatuMeja?node-id=0-1&t=acXLrwpODAii5rDp-0
+# Link Figma : 
+https://www.figma.com/design/F9vArOeFd5Q0wWUb3FarMA/SatuMeja?node-id=0-1&t=acXLrwpODAii5rDp-0
 
-#Link Video Penjelasan :
+# Link Video Penjelasan :
 
-#Link Video Penggunaan :
+# Link Video Penggunaan :
