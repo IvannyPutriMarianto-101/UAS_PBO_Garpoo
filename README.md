@@ -40,3 +40,5 @@ https://www.figma.com/design/F9vArOeFd5Q0wWUb3FarMA/SatuMeja?node-id=0-1&t=acXLr
 
 # Link Video Penggunaan :
 https://youtu.be/fHGKiOHdcZo
+
+# Screenshoot Aplikasi:
